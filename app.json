@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "SHORE!!!",
+    "slug": "snack-f3c0209e-e0ca-4009-8c62-fb4c846bf354",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon-custom.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-custom.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon-custom.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.adhijoearmstrong.snackf3c0209ee0ca40098c62fb4c846bf354"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a624a96d-332c-4fef-9cd7-a5dda84b901b"
+      }
+    }
+  }
+}
